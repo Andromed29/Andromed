@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Techelp </title>
+    <meta charset="UTF-8">
+    <meta name="author" content="TAVARES TETTARAVOU">
+    <meta name="version" content="1.0">
+    <link rel="stylesheet" type="text/css" href="techelp3.css" />
+  </head>
+  <body>
+ <header>
+  <div id= "entete">
+  <div id= "logoo">
+ <a href="techelp.html"><img class= "logo" src="logo1.png" alt="le logo du site"/></a>
+ </div> 
+<form>
+  <div id= "search">
+    <input type="search" id="maRecherche" name="q"
+    placeholder="Rechercher sur le site…" size="30">
+    <button>Rechercher</button>
+  </div>
+</form>
+</div>
+<div id= "papaoutai"></div>
+  <nav>
+<ul>
+<li><a class="active" href="techelp.html"> Accueil </a></li>
+<li><a href="technologie.html"> Les dernières Technologies </a></li>
+<li><a href="ftechnologie.html"> Les futures Technologies </a></li>
+<li><a href="info.html"> A Propos </a></li>
+</ul>
+</nav>
+  </header> 
+   <div id= "bandeGA"></div>
+ <div id= "bandeDA"></div>
+<section class= "sprime">
+ <section class= "section1">
+ <h1>C’EST QUOI TECHELP ?</h1>
+ <p>TECHELP (TECHNOLOGY TO HELP) …</p>
+<p>…Est, à l'origine, une association à but non lucratif de type loi 1901.
+Brièvement, TECHELP a pour but de proposer une aide financière et technique à des personnes dans le besoin, plus particulièrement en situation d’handicap, de les aider à accéder à des outils technologiques pouvant les aider à faciliter leur vie.
+Ainsi, cela passe par des coopérations avec des entreprises, des demandes de don et l’organisation d’évènements nous permettant de recueillir assez de fonds pour poursuivre les buts de l’association.</p>
+</section>
+<section class= "section2">
+<h1> POURQUOI CE SITE ?</h1>
+<p> Ce site n'est pas reservé aux activités de l'association, il a surtout pour but d'informer les internautes sur les nouvelles technologies et celles à venir. Bien que nous vivons à l'ère du numérique et de la technologie, 
+il est sans dire que les gens sont mal informé sur tout ce que la technologie propose. En effet, elle ne se limite pas aux outils numériques les plus connus (Smartphones, SmartWatch, Console, etc.);
+ la technologie est bien plus que ça, elle est bien plus grande que ça. Elle touche presque toutes les domaines de notre vie, peut être utile à tout les âges et permet meme dans certaines situations de diminuer un handicap.
+ Vous êtes passionnés de technologie? Vous être curieux de connaitre <a href="technologie.html">les nouvelles technologies</a>? Vous voulez savoir tout ce qu'<a href="ftechnologie.html">elle a à nous offir</a>? Alors vous au bon endroit.
+</section>
+<section class= "section3">
+<h1> POURQUOI AVOIR CREER TECHELP ?</h1>
+<p>De base, en tant qu'association, notre but est de venir (technologiquement) en aide aux personnes souffrant d'handicap. Le handicap touche 12 millions de français, 
+12 millions qui n’ont rien demandé, 12 millions de personnes souffrant d’une incapacité ou d’une limitation d’activité. Dès que ce projet d’association nous 
+a été donné, nous voulions que ce soit une association dont le but sera d’aider les gens en difficulté à avoir une meilleure vie. Etant des apprentis 
+scientifiques, nous avons décidé d’orienter cette association vers l’aide à la technologie ; et le handicap étant un sujet qui nous porte à cœur, nous avons décidé de créer
+TECHELP.</p>
+</section>
+</section>
+	</body>
+</html>
